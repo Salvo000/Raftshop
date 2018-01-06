@@ -1,0 +1,5 @@
+Mettere un generatore di AppendEntries automatico ogni random secondi, così da poter mostrare anche l'aggiunta al log
+Mostrare ogni azione a schermo (così come è già adesso, in effetti)
+
+Quando un define in un altro file è caricato nel file corrente tramite un include, esso funziona solamente se il contenuto
+del define non invoca cose (porte, servizi, define) a lui esterni
